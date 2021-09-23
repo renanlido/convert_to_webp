@@ -8,6 +8,7 @@ Este projeto converte vários arquivos para WEBP e vários WEBP para outro arqui
 # Como usar
 
 * Clone o projeto
+* Rode npm run ou yarn para instalar as dependencias
 * Crie uma pasta para acomodar suas imagens
 * Cole as imagens ou as pastas de imagens dentro da pasta que você criou anteriormente.
 * Rode o script
@@ -40,6 +41,7 @@ This project converts several files to WEBP and several WEBP to another file. In
 # How to use
 
 * Clone the project
+* Run NPM RUN or YARN INSTALL. 
 * Create a folder to accommodate your images
 * Paste as images or as image folders into the folder you created earlier.
 * Run the script
