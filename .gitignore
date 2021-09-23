@@ -1,0 +1,9 @@
+node_modules
+
+/*
+
+!lib
+!index.mjs
+!.gitignore
+!package.json
+!Readme.md

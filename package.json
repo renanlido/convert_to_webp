@@ -1,0 +1,11 @@
+{
+  "name": "encoding_to_webp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "renanlido <renanlido@yahoo.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "shelljs": "^0.8.4"
+  }
+}
